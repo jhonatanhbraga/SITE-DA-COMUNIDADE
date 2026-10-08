@@ -9,3 +9,11 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+{/* 
+
+
+MUITOS PROBLEMAS DE ROTAS!!!
+
+
+*/}
+
